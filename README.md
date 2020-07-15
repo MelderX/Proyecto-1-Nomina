@@ -1,0 +1,2 @@
+# Proyecto-1-Nomina
+Este programa calcula la Nomina de una empresa(empleados) , el programa debe pedir sueldos mientras el usuario elija la opción de continuar. Al finalizar la captura de la nómina, el programa deberá generar un reporte con lo siguiente :  * Total de nómina de la empresa * Los sueldos ordenados de menor a mayor * Cantidad de empleados capturados * Promedio de sueldo de la nómina * Cantidad de empleados con un sueldo superior al promedio  El programa debe usar funciones y considerar un grupo máximo de 100 empleados.  Validar que no existan sueldos negativos.
